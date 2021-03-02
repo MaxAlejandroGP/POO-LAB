@@ -45,7 +45,7 @@ public class practica3{
         persona[1].getRfc();
         persona[1].mostrarRfc();
 
-        // PERSONA 3 (CURP)
+        // PERSONA 3 (CURP Y RFC)
         System.out.println("\n  PERSONA 3 (RFC Y CURP)");
 
         persona[2].setNombre(CapturaEntrada.capturarString("\nNombre"));
